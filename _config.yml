@@ -1,5 +1,5 @@
 title: Laulukirja
-remote_theme: killercup/jekyll-theme-scribbles
+remote_theme: balancemarx/jekyll-theme-monospace
 markdown: kramdown
 collections:
   songs:
