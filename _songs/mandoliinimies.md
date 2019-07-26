@@ -1,7 +1,7 @@
 ---
 Title: Mandoliinimies
 ---
-<pre style="font-size: vw">
+<pre style="-webkit-text-size-adjust:100%; -moz-text-size-adjust:100%; -ms-text-size-adjust:100%">
 MANDOLIINIMIES                      -   Hector
 
 [Verse 1]
