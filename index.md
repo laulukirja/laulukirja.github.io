@@ -1,5 +1,5 @@
 ---
 ---
 {% for song in site.songs %}
-<a href="{{song.url}}">{{song.title}}</a>
+<a href="{{ site.baseurl }}{{ song.url }}">{{ song.title }}</a>
 {% endfor %}
