@@ -1,7 +1,4 @@
----
-Title: Mandoliinimies
----
-MANDOLIINIMIES                      -   Hector
+# Mandoliinimies
 
 [Verse 1]
 C            G          Am
