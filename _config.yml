@@ -1,9 +1,6 @@
 title: Laulukirja
-theme: jekyll-theme-minimal
-show_downloads: false
+remote_theme: killercup/jekyll-theme-scribbles
 markdown: kramdown
-github: 
-  is_project_page: false
 collections:
   songs:
     output: true
