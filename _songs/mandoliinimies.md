@@ -2,8 +2,9 @@
 title: "Mandoliinimies"
 layout: default
 ---
-# Mandoliinimies
 ~~~~
+MANDOLIINIMIES
+
 [Verse 1]
 C            G          Am
  Hei ystävä, pyyhi kyyneleet,

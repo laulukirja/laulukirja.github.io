@@ -2,8 +2,9 @@
 title: "Tähdet, tähdet"
 layout: default
 ---
-# Tähdet, tähdet
 ~~~~
+TÄHDET, TÄHDET
+
  Intro:
 
 | Dm | Gm | Bb | C |
