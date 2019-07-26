@@ -1,5 +1,8 @@
 ---
 ---
+<h1>Laulukirja</h1>
+<ul>
 {% for song in site.songs %}
-<a href="{{ site.baseurl }}{{ song.url }}">{{ song.title }}</a>
+<li><a href="{{ site.baseurl }}{{ song.url }}">{{ song.title }}</a></li>
 {% endfor %}
+</ul>
