@@ -1,7 +1,7 @@
 ---
 Title: Mandoliinimies
 ---
-~~~~
+<pre>
 MANDOLIINIMIES                      -   Hector
 
 [Verse 1]
@@ -93,4 +93,4 @@ C            G          Am
  mä osoitteesi siihen raaputin, hmm-mm-mm
     F          G           C
  Mä osoitteesi siihen raaputin
- ~~~~
+ </pre>
