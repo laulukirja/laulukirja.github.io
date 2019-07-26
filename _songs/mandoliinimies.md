@@ -1,7 +1,12 @@
 ---
 Title: Mandoliinimies
 ---
-<pre style="-webkit-text-size-adjust:100%; -moz-text-size-adjust:100%; -ms-text-size-adjust:100%">
+<style>
+html {
+  -webkit-text-size-adjust:100%; -moz-text-size-adjust:100%; -ms-text-size-adjust:100%
+}
+</style>
+
 MANDOLIINIMIES                      -   Hector
 
 [Verse 1]
@@ -93,4 +98,3 @@ C            G          Am
  mä osoitteesi siihen raaputin, hmm-mm-mm
     F          G           C
  Mä osoitteesi siihen raaputin
- </pre>
