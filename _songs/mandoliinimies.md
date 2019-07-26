@@ -3,6 +3,7 @@ title: "Mandoliinimies"
 layout: default
 ---
 # Mandoliinimies
+~~~~
 [Verse 1]
 C            G          Am
  Hei ystävä, pyyhi kyyneleet,
@@ -92,3 +93,4 @@ C            G          Am
  mä osoitteesi siihen raaputin, hmm-mm-mm
     F          G           C
  Mä osoitteesi siihen raaputin
+~~~~
