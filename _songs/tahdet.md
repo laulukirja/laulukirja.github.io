@@ -1,8 +1,8 @@
 ---
 title: "Tähdet, tähdet"
+layout: default
 ---
 # Tähdet, tähdet
-~~~~
  Intro:
 
 | Dm | Gm | Bb | C |
@@ -57,4 +57,3 @@ Tähdet tähdet...
 Tähdet tähdet...
 Tähdet tähdet...
 Tähdet tähdet...
-~~~~
