@@ -1,5 +1,6 @@
 title: Laulukirja
 theme: jekyll-theme-minimal
+show_downloads: false
 markdown: kramdown
 github: 
   is_project_page: false
