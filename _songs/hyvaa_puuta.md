@@ -3,6 +3,8 @@ title: "Hyvää puuta"
 layout: default
 ---
 ~~~~
+HYVÄÄ PUUTA
+
 [Intro]
 D F#m Bm x2
 

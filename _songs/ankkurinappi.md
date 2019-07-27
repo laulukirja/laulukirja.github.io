@@ -3,13 +3,7 @@ title: "Ankkurinappi"
 layout: default
 ---
 ~~~~
--------------------------------------------------------------------------------
-                         ANKKURINAPPI - J. Karjalainen
--------------------------------------------------------------------------------
-Tabbed by: Miksuli
-
-Tuning: Standard
-
+ANKKURINAPPI
 
 D                       G       D     G
 Meri on musta ja aallot rantaan lyö
@@ -29,7 +23,7 @@ D                       G      D      G
 En koskaan nähnyt sinun kasvojasi,
 D     G                      D        G
 käsin kiihkein haroin hiuksiasi
-[ Tab from: https://www.guitartabs.cc/tabs/j/j_karjalainen/ankkurinappi_crd.html ]
+
 F#        G
 Kun kohdattiin, oli pimeää
 D       F#7            A        B
