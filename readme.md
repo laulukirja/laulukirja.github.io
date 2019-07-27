@@ -1,10 +1,10 @@
 # Laulukirja
 
-Simple songbook: Jekyll + GitHub Pages. 
+- Simple songbook: Jekyll + GitHub Pages. 
 
-Autodeploys master to laulukirja.github.io.
+- Autodeploys master to laulukirja.github.io.
 
-Feel free to make a pull request for new songs or tweaks (check todo).
+- Feel free to make a pull request for new songs or tweaks (check todo).
 
 # TODO 
 
